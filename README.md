@@ -1,6 +1,6 @@
 # scicompt
 Repository for scientific computations and explorations.
-# Goals
+## Objective
 To explore Mathematical functions and their applications to real life situations. 
 
 #### Bessel Functions
